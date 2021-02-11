@@ -130,3 +130,5 @@ dmypy.json
 
 # Large pickle files
 *.pkl
+
+.DS_Store
