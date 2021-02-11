@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Large pickle files
-.pkl
+*.pkl
